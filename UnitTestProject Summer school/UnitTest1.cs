@@ -20,6 +20,7 @@ namespace UnitTestProject_Summer_school
             //Act
             var result = controller.bmi(1, 1);
             
+
             
 
             //Assert
