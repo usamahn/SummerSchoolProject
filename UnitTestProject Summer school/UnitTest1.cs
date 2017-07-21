@@ -42,6 +42,8 @@ namespace UnitTestProject_Summer_school
             var result2 = controller.bmi(2, 2);
 
 
+
+
             //Assert
             
             Assert.AreEqual(1, result2);
