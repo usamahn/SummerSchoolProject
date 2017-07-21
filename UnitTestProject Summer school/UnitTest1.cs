@@ -29,26 +29,6 @@ namespace UnitTestProject_Summer_school
 
         }
 
-        [TestMethod]
-        public void TestMethod2()
-        {
-
-            //Arrange
-
-            var controller = new ValuesController();
-
-            //Act
-            
-            var result2 = controller.bmi(2, 2);
-
-
-
-
-            //Assert
-            
-            Assert.AreEqual(1, result2);
-
-
-        }
+        
     }
 }
